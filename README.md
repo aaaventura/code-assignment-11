@@ -9,7 +9,7 @@ This project sets up a development environment for a React app using Docker.
         `cd code-assignment-11`
 
 3. Build the docker application into a container image:
-        `docker build -t ventura_ahleeryan-joe_assignment11`
+        `docker build -t ventura_ahleeryan-joe_assignment11 .`
 
 4. Run the application on localhost:7765:
         `docker run -p 7775:7775 ventura_ahleeryan-joe_assignment11`

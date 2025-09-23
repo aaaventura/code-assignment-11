@@ -9,7 +9,7 @@ COPY package*.json ./
 RUN npm install
 
 # Copy rest of app files
-COPY 
+COPY . . 
 
 # Set port
 ENV PORT=7775
