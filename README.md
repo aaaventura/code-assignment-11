@@ -1,5 +1,8 @@
 This project sets up a development environment for a React app using Docker.
 
+## Prerequisite
+- git is required to clone the repository from github: https://github.com/git-guides/install-git
+
 ## How to Run the App
 
 1. You can clone the Repository through git with: 
