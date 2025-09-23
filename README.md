@@ -29,7 +29,7 @@ This project sets up a development environment for a React app using Docker.
 - Double check the version of Node.js with: ```node -v```
     The application uses the Node.js version 18.17.0. 
     
-    To switch versions use: `nvm use 18`
+    To switch versions, use: `nvm use 18`
 
 - If Docker says the port is in use, use `bash docker ps` to display all currently running containers. 
 Then use `docker stop <container_using_7775>`
