@@ -2,7 +2,7 @@
 FROM node:18
 
 # Set working directory inside the container
-WORKDIR	/usr/src/app/ventura_ahleeryan-joe_site
+WORKDIR	/usr/src/app/ventura_ahleeryan-joe_coding_assignment11/ventura_ahleeryan-joe_site
 
 # copy package files and install dependencies
 COPY package*.json ./
